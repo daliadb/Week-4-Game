@@ -13,19 +13,26 @@ div{
 }
 h1, h2, span{
 	font-weight: bold;
-	text-align: center;
 }
+
 h1{
-	font-size: 30pt;
+	font-size: 3em;
+	text-align: center;
 }
 
 h1, h2{
 	font-family: 'Nova Flat', cursive;
 }
 
-p{
+h2{
+	font-size: 1.25em;
+	text-align: left;
+}
+
+li{
 	font-family: 'Dosis', sans-serif;
-	line-height: 125%;
+	font-size: 1em;
+	line-height: 140%;
 }
 
 ol{
